@@ -1,0 +1,35 @@
+Cat's number: 1
+Name: Garbagetail
+Gender: male
+Breed: homeless
+Colour: black
+Sterilized: No
+Weight: 3.2
+Age: 14
+The cat is an invalid because it has only 1 foot
+
+Cat's number: 2
+Name: Pixy
+Gender: female
+Breed: persian
+Colour: white
+Sterilized: Yes
+Weight: 3.6
+Age: 4
+The cat is an invalid because it has only 3 feet
+
+Cat's number: 3
+Name: Redpaw
+Gender: male
+Breed: bengal
+Colour: ginger
+Sterilized: No
+Weight: 4.7
+Age: 7
+A lucky bastard! The cat has all feet.
+
+Statistics:
+Male: 2
+Female: 1
+The largest age of 3 cats is 14 years.
+The average age of 3 cats is 3.83 kilograms
